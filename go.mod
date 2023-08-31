@@ -90,7 +90,7 @@ require (
 	goftp.io/server/v2 v2.0.1
 	golang.org/x/crypto v0.12.0
 	golang.org/x/exp v0.0.0-20230728194245-b0cb94b80691
-	golang.org/x/oauth2 v0.10.0
+	golang.org/x/oauth2 v0.11.0
 	golang.org/x/sys v0.11.0
 	golang.org/x/time v0.3.0
 	google.golang.org/api v0.134.0
