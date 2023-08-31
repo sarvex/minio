@@ -5,7 +5,7 @@ go 1.19
 require (
 	cloud.google.com/go/storage v1.31.0
 	github.com/Azure/azure-storage-blob-go v0.15.0
-	github.com/IBM/sarama v1.41.0
+	github.com/IBM/sarama v1.41.1
 	github.com/alecthomas/participle v0.7.1
 	github.com/bcicen/jstream v1.0.1
 	github.com/beevik/ntp v1.3.0
