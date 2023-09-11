@@ -3,7 +3,7 @@ module github.com/minio/minio
 go 1.19
 
 require (
-	cloud.google.com/go/storage v1.31.0
+	cloud.google.com/go/storage v1.33.0
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/IBM/sarama v1.41.0
 	github.com/alecthomas/participle v0.7.1
